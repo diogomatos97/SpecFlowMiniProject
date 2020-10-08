@@ -4,7 +4,7 @@
 
 #### Project Description
 
-This project consists of a testing framework for the https://www.saucedemo.com/ website, using Page Object Model (POM) with Specflow to automate the end to end process of  a customer login in and purchasing a product.
+This project consists of a testing framework for the [Swag Labs](https://www.saucedemo.com/) demo website, using Page Object Model (POM) with Specflow to automate the end to end process of  a customer login in and purchasing a product.
 
 
 
@@ -19,7 +19,7 @@ This project consists of a testing framework for the https://www.saucedemo.com/ 
 
 #### Class Diagram
 
-![]()
+![](https://github.com/diogomatos97/SpeckFlowMiniProject/blob/main/images/classDIagram.PNG)
 
 
 
@@ -37,7 +37,7 @@ gh repo clone diogomatos97/SpeckFlowMiniProject
 
 ###### 2 - Run Available Tests 
 
-![]()
+![](https://github.com/diogomatos97/SpeckFlowMiniProject/blob/main/images/Tests.PNG)
 
 With the Visual Studio Test Explorer, click on "Run All" to run the available tests for this solution.
 
@@ -47,7 +47,7 @@ With the Visual Studio Test Explorer, click on "Run All" to run the available te
 
 In the SeleniumDriverConfig class,
 
-![]()
+![](https://github.com/diogomatos97/SpeckFlowMiniProject/blob/main/images/driver%20config.PNG)
 
 
 
