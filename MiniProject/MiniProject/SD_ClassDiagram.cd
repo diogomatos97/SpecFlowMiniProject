@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MiniProject.SD_Website">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIAAAAIACgAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>lib\SD_Website.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="SD_Cart" />
+      <Property Name="SD_Checkout" />
+      <Property Name="SD_Products" />
+      <Property Name="SD_Homepage" />
+      <Property Name="SD_CheckoutStepTwo" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MiniProject.lib.pages.SD_Cart">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAABAAAAAAAAACAAAAgAAABAAAAAABAQA=</HashCode>
+      <FileName>lib\pages\SD_Cart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniProject.lib.pages.SD_Checkout">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAQAEAAAABBAAAAAQAAACAAAAhAAAIAAAAAAAAQI=</HashCode>
+      <FileName>lib\pages\SD_Checkout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniProject.lib.pages.SD_Products">
+    <Position X="7.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAABAABAAAAgAAACSAAAAAAAAAQAAAAAAAIE=</HashCode>
+      <FileName>lib\pages\SD_Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniProject.SD_Homepage">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAhAAAAAAAAAiAAAAIAAcAEIAAAAAAAA=</HashCode>
+      <FileName>lib\pages\SD_Homepage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniProject.lib.pages.SD_CheckoutStepTwo">
+    <Position X="3.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAABAAAAAAAAACAAAAgAAAIAAAAAAAAIA=</HashCode>
+      <FileName>lib\pages\SD_CheckoutStepTwo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniProject.AppConfigReader">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAABAAAAAgACAAgAAAIAA=</HashCode>
+      <FileName>AppConfigReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniProject.SeleniumDriverConfig">
+    <Position X="9.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAEAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>lib\driver_config\SeleniumDriverConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
