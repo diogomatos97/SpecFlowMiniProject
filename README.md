@@ -4,7 +4,11 @@
 
 #### Project Description
 
-This project consists of a testing framework for the [Swag Labs](https://www.saucedemo.com/) demo website, using Page Object Model (POM) with Specflow to automate the end to end process of  a customer login in and purchasing a product.
+This project consists of a testing framework for the [Swag Labs](https://www.saucedemo.com/) demo website, using Page Object Model (POM) with Specflow and Selenium to automate the end to end process of  a customer login in and purchasing a product.
+
+Specflow is a testing tool that allows to convert requirement user stories (Gherkin Syntax) into test cases, with the use of Behaviour Driven Development (BDD) methodology.
+
+Selenium allows to identify page elements and web components to easily interact with (click buttons, fill forms). It also provides web drivers which allow users to initialize a web within a test case.
 
 
 
@@ -57,3 +61,14 @@ Comment out the following line:
 options.AddArgument("headless");
 ```
 
+
+
+#### Project Review
+
+During this project, it was able to achieve partial state - transition testing, as the main focus was to test the buying path that a customer would take. 
+
+
+
+#### Project Retrospective
+
+During this project, timeboxing method was used, as to split the projects into smaller task (create framework, create individual page model, create scenarios for test cases). This provided to be a good technique which sped up the process of creating the testing framework. As to blockers encountered during the project, there were no significant found.  
